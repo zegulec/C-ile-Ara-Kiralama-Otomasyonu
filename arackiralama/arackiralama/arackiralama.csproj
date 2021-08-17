@@ -1,0 +1,325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{34B5DE06-F7F2-4FC5-AFDC-431ED175206E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>arackiralama</RootNamespace>
+    <AssemblyName>arackiralama</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acilis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acilis.Designer.cs">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracara.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracara.Designer.cs">
+      <DependentUpon>aracara.cs</DependentUpon>
+    </Compile>
+    <Compile Include="arackayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="arackayit.Designer.cs">
+      <DependentUpon>arackayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracraporla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracraporla.Designer.cs">
+      <DependentUpon>aracraporla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet3.cs">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="giris.Designer.cs">
+      <DependentUpon>giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ilk.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ilk.Designer.cs">
+      <DependentUpon>ilk.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kirala.Designer.cs">
+      <DependentUpon>kirala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullaniciislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullaniciislemleri.Designer.cs">
+      <DependentUpon>kullaniciislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullaniciraporla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullaniciraporla.Designer.cs">
+      <DependentUpon>kullaniciraporla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rezervasyonraporla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezervasyonraporla.Designer.cs">
+      <DependentUpon>rezervasyonraporla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="rezerve.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezerve.Designer.cs">
+      <DependentUpon>rezerve.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanicirezervasyonislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kullanicirezervasyonislemleri.Designer.cs">
+      <DependentUpon>kullanicirezervasyonislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sec.Designer.cs">
+      <DependentUpon>sec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yetkiislem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yetkiislem.Designer.cs">
+      <DependentUpon>yetkiislem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yetkili.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yetkili.Designer.cs">
+      <DependentUpon>yetkili.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yetkilikayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yetkilikayit.Designer.cs">
+      <DependentUpon>yetkilikayit.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="acilis.resx">
+      <DependentUpon>acilis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracara.resx">
+      <DependentUpon>aracara.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="arackayit.resx">
+      <DependentUpon>arackayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracraporla.resx">
+      <DependentUpon>aracraporla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="giris.resx">
+      <DependentUpon>giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ilk.resx">
+      <DependentUpon>ilk.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kirala.resx">
+      <DependentUpon>kirala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullaniciislemleri.resx">
+      <DependentUpon>kullaniciislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullaniciraporla.resx">
+      <DependentUpon>kullaniciraporla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report2.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="rezervasyonraporla.resx">
+      <DependentUpon>rezervasyonraporla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rezerve.resx">
+      <DependentUpon>rezerve.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanicirezervasyonislemleri.resx">
+      <DependentUpon>kullanicirezervasyonislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sec.resx">
+      <DependentUpon>sec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yetkiislem.resx">
+      <DependentUpon>yetkiislem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yetkili.resx">
+      <DependentUpon>yetkili.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yetkilikayit.resx">
+      <DependentUpon>yetkilikayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsc">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet2.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet2.xss">
+      <DependentUpon>DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsc">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet3.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet3.xss">
+      <DependentUpon>DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_male2-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_close_security-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document_black-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fon2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\car-3-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Car-Key-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new_2-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pen_3-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_delete_1-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\disk_B-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_1-256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Document_black-2561.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\button_delete_1-2561.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

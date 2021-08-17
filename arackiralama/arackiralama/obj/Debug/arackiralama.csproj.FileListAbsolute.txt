@@ -1,0 +1,194 @@
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+C:\Users\zegulec\Desktop\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+C:\Users\zegulec\Desktop\Abdülkadir hocanın projesi\nesneye yönelik programlama dönem proje ödevi\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+C:\Users\zegulec\Desktop\PROJE SON HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+E:\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\RdlCompile.cache
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\RdlCompile.compiled
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.aracraporla.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciraporla.resources
+C:\Users\zegulec\Desktop\PROJE SONNNN HALİ\arackiralama\arackiralama\obj\Debug\arackiralama.rezervasyonraporla.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.aracraporla.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciraporla.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.rezervasyonraporla.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\RdlCompile.cache
+C:\Users\zegulec\Desktop\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\RdlCompile.compiled
+C:\Users\zegulec\Desktop\Elektrik Devreleri\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegulec\Desktop\Elektrik Devreleri\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegulec\Desktop\Elektrik Devreleri\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.aracraporla.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciraporla.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.rezervasyonraporla.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\RdlCompile.cache
+C:\Users\Zeguleç\Desktop\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\RdlCompile.compiled
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.pdb
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.csprojResolveAssemblyReference.cache
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.acilis.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.aracara.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.arackayit.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.aracraporla.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.giris.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.ilk.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kirala.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciislemleri.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullaniciraporla.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.Properties.Resources.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.rezervasyonraporla.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.rezerve.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.kullanicirezervasyonislemleri.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.sec.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkiislem.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkili.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.yetkilikayit.resources
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.csproj.GenerateResource.Cache
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\RdlCompile.cache
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\RdlCompile.compiled
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\NESNE\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\bin\Debug\arackiralama.exe.config
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\NESNE\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.exe
+C:\Users\zegul\OneDrive\Masaüstü\Star Wars\NESNE\184410031_zehra_güleç_arackiralama\arackiralama\arackiralama\obj\Debug\arackiralama.pdb
